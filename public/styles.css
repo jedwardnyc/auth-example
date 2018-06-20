@@ -1,0 +1,26 @@
+.login {
+	text-align: center;
+	margin-top: 45px;
+}
+
+.login-header {
+	margin: 10px auto;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.github {
+  text-align: center;
+  background-color: lightgrey;
+  color: black;
+  width: 250px;
+  border: 1px solid black;
+}
+
+.google {
+  text-align: center;
+  background-color: #2672EC;
+  color: white;
+  width: 250px;
+  border: 1px solid black;
+}
